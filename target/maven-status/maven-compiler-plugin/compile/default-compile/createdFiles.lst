@@ -1,0 +1,7 @@
+org/kb/addressbook/ContactNotFoundAdvice.class
+org/kb/addressbook/AddressBookApplication.class
+org/kb/addressbook/ContactNotFoundException.class
+org/kb/addressbook/ContactController.class
+org/kb/addressbook/StringIdGenerator.class
+org/kb/addressbook/Contact.class
+org/kb/addressbook/ContactRepository.class
